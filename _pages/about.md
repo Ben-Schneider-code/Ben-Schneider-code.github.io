@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MMath Student at <a href='https://uwaterloo.ca/'>UWaterloo</a>, Benjamin.Schneider@uwaterloo.ca
+subtitle: Gradaute Student at <a href='https://uwaterloo.ca/'>UWaterloo</a>, affiliated with the <a href='https://vectorinstitute.ai/'>Vector Institute</a>, Benjamin.Schneider@uwaterloo.ca
 #MMath Student @UWaterloo.  Address. Contacts. Motto. Etc.
 profile:
   align: right
@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Editavorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a first-year CS master student masters student at University of Waterloo, advised by <a href='https://wenhuchen.github.io/'>Wenhu Chen</a> (<a href='https://huggingface.co/TIGER-Lab'>TIGER-Lab</a>) and <a href='https://cs.uwaterloo.ca/~fkerschb/'>Florian Kerschbaum</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm broadly interested in foundation models that *understand the world* (however I chose to define that). 
+My specific interests are in unified methods for multimodal representation learning across many modalities (audio/video/text/images)
+and (increasingly) small-scale world models. Sometimes I do work in systems for multimodal ML, mostly in an effort to squeeze as much as possible out of limited hardware.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm pretty terrible about keeping my website updated. 😅  
+So, for an up-to-date list of publications please check my scholar, my code/projects are hosted under the TIGER-Lab github.

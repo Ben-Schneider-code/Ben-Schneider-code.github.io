@@ -34,4 +34,4 @@ My specific interests are in unified methods for multimodal representation learn
 and (increasingly) small-scale world models. Sometimes I do work in systems for multimodal ML, mostly in an effort to squeeze as much as possible out of limited hardware.
 
 I'm pretty terrible about keeping my website updated. 😅  
-So, for an up-to-date list of publications please check my scholar, my code/projects are hosted under the TIGER-Lab github.
+So, for an up-to-date list of publications please check my scholar, my code/projects are hosted under the <a href='https://github.com/TIGER-AI-Lab'>TIGER-Lab</a> github.

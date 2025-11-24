@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-we-release-abc-a-model-text-guided-visual-retrieval",
-          title: 'We release ABC, a model text-guided visual retrieval.',
+        },{id: "news-we-release-abc-a-model-fine0grained-multimodal-retrieval",
+          title: 'We release ABC, a model fine0grained multimodal retrieval.',
           description: "",
           section: "News",},{id: "news-first-public-release-of-quickvideo-our-library-for-efficient-long-videollm-inference-quickvideo-is-an-ongoing-project-focused-on-improving-systems-and-models-for-videollms-please-provide-feedback-if-there-are-features-you-want-implemented",
           title: 'First public release of QuickVideo, our library for efficient (long) VideoLLM inference. QuickVideo...',

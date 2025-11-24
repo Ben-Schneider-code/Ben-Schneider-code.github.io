@@ -36,6 +36,7 @@ Currently, I'm working on methods for training open-ended embodied agents. The a
 -	Unified methods for representation learning across modalities.  
 
 I'm pretty terrible about keeping my website updated. 😅  
-So, for an up-to-date list of publications please check my scholar, my code/projects are hosted on GitHub: <a href='https://github.com/Toolbox-HQ'>Toolbox-HQ</a> (Embodied Agents work) and  <a href='https://github.com/TIGER-AI-Lab'>TIGER-Lab</a> (Multimodal Learning projects).  
+So, for an up-to-date list of publications please check my scholar, my code/projects are hosted on GitHub:  
+<a href='https://github.com/Toolbox-HQ'>Toolbox-HQ</a> (Embodied Agents work) and  <a href='https://github.com/TIGER-AI-Lab'>TIGER-Lab</a> (Multimodal Learning projects).  
   
 **Fun fact about me:** I try to sneak an image of my cat (pictured right) into my papers.

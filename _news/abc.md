@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We release <a href='https://tiger-ai-lab.github.io/ABC/'>ABC</a>, a model text-guided visual retrieval.
+We release <a href='https://tiger-ai-lab.github.io/ABC/'>ABC</a>, a model fine0grained multimodal retrieval.

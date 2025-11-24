@@ -6,7 +6,7 @@ subtitle: Gradaute Student at <a href='https://uwaterloo.ca/'>UWaterloo</a>, aff
 #MMath Student @UWaterloo.  Address. Contacts. Motto. Etc.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>                       </p>

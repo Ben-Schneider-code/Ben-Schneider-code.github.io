@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Ben, a CS masters student masters student at University of Waterloo, advised by <a href='https://wenhuchen.github.io/'>Wenhu Chen</a> (<a href='https://huggingface.co/TIGER-Lab'>TIGER-Lab</a>) and <a href='https://cs.uwaterloo.ca/~fkerschb/'>Florian Kerschbaum</a>.  
+Hi! I'm Ben, a CS masters student at the University of Waterloo, advised by <a href='https://wenhuchen.github.io/'>Wenhu Chen</a> (<a href='https://huggingface.co/TIGER-Lab'>TIGER-Lab</a>) and <a href='https://cs.uwaterloo.ca/~fkerschb/'>Florian Kerschbaum</a>.  
   
 
 Currently, I'm working on methods for training open-ended embodied agents. The analogy I always draw on is that if you sit a kid in front of a computer and get them to play an open-world game like MineCraft, they quickly become generalist experts (able to accomplish arbitrary tasks) without needing specific objectives. I am interested in machine learning algorithms that can emulate that process of learning. I am usually working on a combination of the following problems:

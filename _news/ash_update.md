@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our "small project" on getting agents to learn in long-horizon video games turned into a whole year-long endeavour.
+Our "small project" on getting agents to learn in long-horizon games turned into a whole year-long endeavour.
 It has now been published at NeurIPS 2026, check it out <a href='https://arxiv.org/abs/2605.14211v4'>here</a> if you are interested in self-improvement in long-horizon/open-ended worlds!

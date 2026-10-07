@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been battling to teach an agent to play Pokemon Emerald for a few months! Check out our work (in progress) <a href='https://github.com/Toolbox-HQ/pokeagent-speedrun'>here</a>.
+I have been battling to teach an agent to play Pokemon Emerald for a few months!
